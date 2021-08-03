@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: githubaction-example
+server:
+  port: 8080
